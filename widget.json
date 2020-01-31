@@ -1,6 +1,6 @@
 {
-  "name": "Login",
-  "package": "com.fliplet.login-data-source",
+  "name": "Login-upplabs",
+  "package": "com.fliplet.login-data-source-upplabs",
   "version": "2.0.0",
   "icon": "img/icon.png",
   "tags": ["type:component", "category:security"],
